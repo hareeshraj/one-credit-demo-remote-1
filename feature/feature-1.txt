@@ -1,1 +1,1 @@
-A feature 1
+A feature 1 has been added.
